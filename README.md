@@ -1,5 +1,4 @@
-
-# OpenAI GPT-3 Chatbot Application with React and Node.js
+echo "# OpenAI GPT-3 Chatbot Application with React and Node.js
 
 This repository contains a chatbot application built using React for the frontend and Node.js for the backend. The chatbot leverages the OpenAI GPT-3 model for generating intelligent responses.
 
@@ -12,7 +11,7 @@ This repository contains a chatbot application built using React for the fronten
 
 2. **Navigate to the project directory:**
       \`\`\`
-      cd OpenAI-GPT-3-Chatbot-Application-with-React-and-Node.js
+      cd chatbot_reactjs
       \`\`\`
 
 3. **Install dependencies:**
@@ -39,7 +38,6 @@ This repository contains a chatbot application built using React for the fronten
 
 ![output](https://github.com/Hasibwajid/OpenAI-GPT-3-Chatbot-Application-with-React-and-Node.js/assets/72168225/25ef857a-6678-486c-8dd4-73f5eaf42bee)
 
-
 ## Features
 
 - Real-time chat interface.
@@ -61,4 +59,4 @@ This repository contains a chatbot application built using React for the fronten
 
 ## Contributing
 
-Contributions are welcome! 
+Contributions are welcome!" > README.md
