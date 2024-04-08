@@ -1,0 +1,46 @@
+/* App.css */
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: #f9f9f9;
+}
+
+.app-header {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+  color: #333;
+}
+
+.chatbot-container {
+  width: 400px;
+  max-width: 90%;
+  height: 500px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.chat-icon {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  cursor: pointer;
+}
+
+.chat-icon img {
+  width: 60px;
+  height: auto;
+}
