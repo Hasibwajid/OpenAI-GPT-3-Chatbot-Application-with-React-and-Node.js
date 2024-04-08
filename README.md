@@ -67,8 +67,4 @@ This repository contains a chatbot application built using React for the fronten
 
 ## Contributing
 
-Contributions are welcome! Please follow the [Contribution Guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details." > README.md
+Contributions are welcome! 
