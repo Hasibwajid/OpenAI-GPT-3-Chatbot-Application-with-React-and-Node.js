@@ -1,4 +1,4 @@
-echo "# OpenAI GPT-3 Chatbot Application with React and Node.js
+# OpenAI GPT-3 Chatbot Application with React and Node.js
 
 This repository contains a chatbot application built using React for the frontend and Node.js for the backend. The chatbot leverages the OpenAI GPT-3 model for generating intelligent responses.
 
