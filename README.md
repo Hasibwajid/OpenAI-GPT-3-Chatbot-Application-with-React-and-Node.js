@@ -6,35 +6,29 @@ This repository contains a chatbot application built using React for the fronten
 ## Installation Guide
 
 1. **Clone the repository:**
-   \`\`\`bash
-   git clone https://github.com/Hasibwajid/OpenAI-GPT-3-Chatbot-Application-with-React-and-Node.js.git
-   \`\`\`
+      \`\`\`
+      git clone https://github.com/Hasibwajid/OpenAI-GPT-3-Chatbot-Application-with-React-and-Node.js.git
+      \`\`\`
 
 2. **Navigate to the project directory:**
-   \`\`\`bash
-   cd OpenAI-GPT-3-Chatbot-Application-with-React-and-Node.js
-   \`\`\`
+      \`\`\`
+      cd OpenAI-GPT-3-Chatbot-Application-with-React-and-Node.js
+      \`\`\`
 
-3. **Install backend dependencies:**
-   \`\`\`bash
-   npm install
-   \`\`\`
+3. **Install dependencies:**
+      \`\`\`
+      npm install
+      \`\`\`
 
 4. **Start the backend server:**
-   \`\`\`bash
-   node server.js
-   \`\`\`
+      \`\`\`
+      node server.js
+      \`\`\`
 
-5. **Install frontend dependencies:**
-   \`\`\`bash
-   cd ../client
-   npm install
-   \`\`\`
-
-6. **Start the frontend server:**
-   \`\`\`bash
-   npm start
-   \`\`\`
+5. **Start the frontend server:**
+      \`\`\`
+      npm start
+      \`\`\`
 
 ## Usage Guide
 
