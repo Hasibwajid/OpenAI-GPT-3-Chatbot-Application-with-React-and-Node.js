@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="app-container">
       <header className="app-header">
-        <h1>Chatbot Interface</h1>
+        <h1>ASK ANYTHING !</h1>
       </header>
       <div className="chatbot-container">
         <Chatbot />
