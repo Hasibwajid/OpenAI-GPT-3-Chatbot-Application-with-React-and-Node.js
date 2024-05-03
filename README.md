@@ -38,6 +38,10 @@ This repository contains a chatbot application built using React for the fronten
 
 ![image](https://github.com/Hasibwajid/OpenAI-GPT-3-Chatbot-Application-with-React-and-Node.js/assets/72168225/a0f25d3a-5a8a-46b0-9647-46e2fcad5d80)
 
+
+![output](https://github.com/Hasibwajid/OpenAI-GPT-3-Chatbot-Application-with-React-and-Node.js/assets/72168225/e4f4c40e-a9e5-4c86-921b-11d8d41fd34d)
+
+
 ## Features
 
 - Real-time chat interface.
